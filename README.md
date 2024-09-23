@@ -4,3 +4,6 @@
 ## Caminar:
 https://github.com/user-attachments/assets/3d28f222-7d44-4f69-bf08-b8e8e2342238
 ## Trotar:
+https://github.com/user-attachments/assets/94d8e740-00b8-4c8b-98d6-40e60ceb0670
+## Correr:
+https://github.com/user-attachments/assets/00657401-49f1-4eed-9ed2-96395169b748
